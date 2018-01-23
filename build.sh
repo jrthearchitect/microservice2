@@ -4,4 +4,4 @@
 ##########
 
 
-docker build --no-cache -t jrobinson/plaidapi:micro1 . 
+docker build --no-cache -t jrobinson/plaidapi:micro2 . 
